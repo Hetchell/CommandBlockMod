@@ -1,0 +1,6 @@
+This folder contain the resources that must go with the source code. 
+The source code can just throw into a folder inside your namespace. May need to do refactoring. 
+The resources: dump into folder that is read by a intepreter that combine the .pak file to the Content.pak of SC2. 
+If you use my survivalcraft2 code, dump resources into '.../bin/mods' folder. 
+
+**WARNING** if you don't attach resources, the code may return nullptrs.
